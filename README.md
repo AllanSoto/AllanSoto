@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 
 # Allan Soto - Senior Software Developer, Data Engineer & AI Media Specialist
 
@@ -8,10 +8,10 @@
 [![Next.js](https://img.shields.io/badge/Next.js-Full--Stack-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.8-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4.1-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
-[![Node.js & Express](https://img.shields.io/badge/Node.js_&_Express-Backend-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
-[![SQL Server](https://img.shields.io/badge/SQL_Server_&_MySQL-Data_Engineering-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://github.com/AllanSoto/-LABORATORIO_OPTIMIZACION_SQL)
+[![Node.js & Express](https://img.shields.io/badge/Node.js_%26_Express-Backend-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
+[![SQL Server](https://img.shields.io/badge/SQL_Server_%26_MySQL-Data_Engineering-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://github.com/AllanSoto/-LABORATORIO_OPTIMIZACION_SQL)
 [![Python ETL](https://img.shields.io/badge/Python-Pandas_ETL-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/AllanSoto/Automatizaci-n-de-Procesos)
-[![AI Video Studio](https://img.shields.io/badge/Runway_&_ElevenLabs-Video_IA-8B5CF6?style=for-the-badge&logo=sparkles&logoColor=white)](https://github.com/AllanSoto/Generaci-n-Edici-n-de-Video-Profesional-con-IA-Reels-Corporativo-)
+[![AI Video Studio](https://img.shields.io/badge/Runway_%26_ElevenLabs-Video_IA-8B5CF6?style=for-the-badge&logo=sparkles&logoColor=white)](https://github.com/AllanSoto/Generaci-n-Edici-n-de-Video-Profesional-con-IA-Reels-Corporativo-)
 
 <br />
 
@@ -33,15 +33,15 @@
 ## Índice de Proyectos y Demostraciones en Vivo (Video + Capturas HD)
 
 | # | Proyecto | Categoría | Impacto Clave | Video Demo | Repositorio |
-| :-: | :--- | :--- | :--- | :---: | :---: |
-| **01** | [**Dashboard Empresarial de Toma de Decisiones**](#proyecto-1---dashboard-empresarial-de-toma-de-decisiones) | `Dashboard Empresarial` | Carga `40s -> 0.8s` \| 100% Tiempo Real | [Ver Video](./public/proyecto_1/video.mp4) | [Ver Repo](https://github.com/AllanSoto/enterprise-kpi-analytics-dashboard) |
-| **02** | [**Sistema de KPIs Operativos (Asignaciones, Gestiones y Recuperaciones)**](#proyecto-2---sistema-de-kpis-operativos-asignaciones-gestiones-y-recuperaciones) | `Sistema de KPIs` | `7 KPIs Clave` \| Automatizado (1 min) | [Ver Video](./public/proyecto_2/video.mp4) | [Ver Repo](https://github.com/AllanSoto/-LABORATORIO_OPTIMIZACION_SQL) |
-| **03** | [**SQL Server & Data Engineering Avanzado**](#proyecto-3---sql-server--data-engineering-avanzado) | `SQL & Data Engineering` | Consultas `45 min -> 1.2s` \| `-88% CPU` | [Ver T-SQL](#proyecto-3---sql-server--data-engineering-avanzado) | [Ver Repo](https://github.com/AllanSoto/-LABORATORIO_OPTIMIZACION_SQL) |
-| **04** | [**Automatización de Procesos ETL (Excel -> Python -> SQL Server)**](#proyecto-4---automatizacion-de-procesos-etl-excel---python---sql-server) | `Automatización & Python` | `3 Horas/Día` ahorradas \| `50k Reg / 15s` | [Ver Video](./public/proyecto_4/video.mp4) | [Ver Repo](https://github.com/AllanSoto/Automatizaci-n-de-Procesos) |
-| **05** | [**Desarrollo Web Full-Stack Empresarial (React, Node, PM2, Nginx, SSL)**](#proyecto-5---desarrollo-web-full-stack-empresarial) | `Desarrollo Web` | `99.9% Uptime` \| Lighthouse `98/100` | [Ver Video](./public/proyecto_5/video.mp4) | [Ver Repo](https://github.com/AllanSoto/Desarrollo-Web-Full-Stack-Empresarial) |
-| **06** | [**Creación de Páginas Web & Landing Pages de Alta Conversión**](#proyecto-6---creacion-de-paginas-web--landing-pages-de-alta-conversion) | `Creación Web` | Lighthouse `100/100` \| Carga `0.4s` \| `+45% Leads` | [Ver Video](./public/proyecto_6/Proyecto_6.mp4) | [Ver Repo](https://github.com/AllanSoto/creaci-n-web-negocios-profesionales-y-startups) |
-| **07** | [**Generación & Edición de Video Profesional con IA (Reels 9:16 & 4K)**](#proyecto-7---generacion--edicion-de-video-profesional-con-ia-reels--corporativo) | `Edición & Video IA` | `+68% Retención Visual` \| Entrega `24-48h` | [Ver Video](./public/proyecto_7/proyecto_7_video.mp4) | [Ver Repo](https://github.com/AllanSoto/Generaci-n-Edici-n-de-Video-Profesional-con-IA-Reels-Corporativo-) |
-| **08** | [**GastroPoint - Sistema POS, KDS de Cocina & Pedidos por Asiento**](#proyecto-8---gastropoint-sistema-pos-kds-de-cocina--pedidos-por-asiento) | `Sistema POS & Web App` | `100% Precisión por Asiento` \| Cierre en `10s` | [Ver Video](./public/proyecto_8/gp_video.mp4) | [Ver Repo](https://github.com/AllanSoto/GastroPoint) |
+| :---: | :--- | :--- | :--- | :---: | :---: |
+| **01** | [**Dashboard Empresarial de Toma de Decisiones**](#proyecto-1---dashboard-empresarial-de-toma-de-decisiones) | `Dashboard Empresarial` | Carga `40s -> 0.8s` \| 100% Tiempo Real | [Ver Video](./public/proyecto_1/video.mp4) | [GitHub](https://github.com/AllanSoto/enterprise-kpi-analytics-dashboard) |
+| **02** | [**Sistema de KPIs Operativos (Asignaciones, Gestiones y Recuperaciones)**](#proyecto-2---sistema-de-kpis-operativos-asignaciones-gestiones-y-recuperaciones) | `Sistema de KPIs` | `7 KPIs Clave` \| Automatizado (1 min) | [Ver Video](./public/proyecto_2/video.mp4) | [GitHub](https://github.com/AllanSoto/-LABORATORIO_OPTIMIZACION_SQL) |
+| **03** | [**SQL Server & Data Engineering Avanzado**](#proyecto-3---sql-server--data-engineering-avanzado) | `SQL & Data Engineering` | Consultas `45 min -> 1.2s` \| -88% CPU | [Ver SQL](#proyecto-3---sql-server--data-engineering-avanzado) | [GitHub](https://github.com/AllanSoto/-LABORATORIO_OPTIMIZACION_SQL) |
+| **04** | [**Automatización de Procesos ETL (Excel -> Python -> SQL)**](#proyecto-4---automatización-de-procesos-etl-excel---python---sql-server) | `Automatización & Python` | `3h / Día` ahorradas \| 0% Errores | [Ver Video](./public/proyecto_4/video.mp4) | [GitHub](https://github.com/AllanSoto/Automatizaci-n-de-Procesos) |
+| **05** | [**Desarrollo Web Full-Stack Empresarial**](#proyecto-5---desarrollo-web-full-stack-empresarial) | `Desarrollo Web` | `99.9% Uptime` \| Lighthouse 98/100 | [Ver Video](./public/proyecto_5/video.mp4) | [GitHub](https://github.com/AllanSoto/Desarrollo-Web-Full-Stack-Empresarial) |
+| **06** | [**Creación de Páginas Web & Landing Pages de Alta Conversión**](#proyecto-6---creación-de-páginas-web--landing-pages-de-alta-conversión) | `Creación Web` | `100/100 Lighthouse` \| Carga `0.4s` \| +45% Leads | [Ver Video](./public/proyecto_6/Proyecto_6.mp4) | [GitHub](https://github.com/AllanSoto/creaci-n-web-negocios-profesionales-y-startups) |
+| **07** | [**Generación & Edición de Video Profesional con IA (Reels & 4K)**](#proyecto-7---generación--edición-de-video-profesional-con-ia-reels--corporativo) | `Edición & Video IA` | `+68% Retención` \| Entrega 24-48h | [Ver Video](./public/proyecto_7/proyecto_7_video.mp4) | [GitHub](https://github.com/AllanSoto/Generaci-n-Edici-n-de-Video-Profesional-con-IA-Reels-Corporativo-) |
+| **08** | [**GastroPoint - Sistema POS, KDS de Cocina & Pedidos por Asiento**](#proyecto-8---gastropoint-sistema-pos-kds-de-cocina--pedidos-por-asiento) | `Sistema POS & Web App` | `100% Precisión` por Asiento \| Cuenta en 10s | [Ver Video](./public/proyecto_8/gp_video.mp4) | [GitHub](https://github.com/AllanSoto/GastroPoint) |
 
 ---
 
@@ -55,15 +55,15 @@
 - **Impacto Medible:** **`100% Tiempo Real`** en visibilidad gerencial | Velocidad de carga **`40s -> 0.8s`** | **`+65% Rapidez`** en decisiones basadas en datos.
 
 <div align="center">
-
-[![Ver Video Demo - Proyecto 1](https://img.shields.io/badge/Ver_Video_Demostracion_(MP4)-Proyecto_1_Dashboard-10B981?style=for-the-badge&logo=googledrive&logoColor=white)](./public/proyecto_1/video.mp4)
-[![Repositorio GitHub](https://img.shields.io/badge/GitHub-enterprise--kpi--analytics--dashboard-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AllanSoto/enterprise-kpi-analytics-dashboard)
-
-### Vista Principal - Panel Ejecutivo de KPIs (Modo Oscuro)
-<a href="./public/proyecto_1/video.mp4">
-  <img src="./public/proyecto_1/screenshot-1.png" alt="Proyecto 1 - Panel Principal de KPIs" width="100%" />
-</a>
-
+  <p>
+    <a href="./public/proyecto_1/video.mp4"><b>[ Ver Video Demostración (MP4) - Proyecto 1 ]</b></a>
+    &nbsp;&nbsp;|&nbsp;&nbsp;
+    <a href="https://github.com/AllanSoto/enterprise-kpi-analytics-dashboard"><b>[ Ver Repositorio en GitHub ]</b></a>
+  </p>
+  <h3>Vista Principal - Panel Ejecutivo de KPIs (Modo Oscuro)</h3>
+  <a href="./public/proyecto_1/video.mp4">
+    <img src="./public/proyecto_1/screenshot-1.png" alt="Proyecto 1 - Panel Principal de KPIs" width="100%" />
+  </a>
 </div>
 
 ### Galería Completa de Capturas - Proyecto 1
@@ -130,15 +130,15 @@ END;
 | **Contactos Efectivos** | `410 Contactos` | `9,840 Contactos` | `12,900 Contactos` | Titular: 85% \| Tercero: 15% | 41 Contactos / Asesor | **Superior (46.1%)** |
 
 <div align="center">
-
-[![Ver Video Demo - Proyecto 2](https://img.shields.io/badge/Ver_Video_Demostracion_(MP4)-Proyecto_2_KPIs-10B981?style=for-the-badge&logo=googledrive&logoColor=white)](./public/proyecto_2/video.mp4)
-[![Repositorio GitHub](https://img.shields.io/badge/GitHub-LABORATORIO__OPTIMIZACION__SQL-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AllanSoto/-LABORATORIO_OPTIMIZACION_SQL)
-
-### Vista Principal - Panel Ejecutivo de KPIs & Visión Global
-<a href="./public/proyecto_2/video.mp4">
-  <img src="./public/proyecto_2/screenshot-1.png" alt="Proyecto 2 - Panel Ejecutivo de KPIs" width="100%" />
-</a>
-
+  <p>
+    <a href="./public/proyecto_2/video.mp4"><b>[ Ver Video Demostración (MP4) - Proyecto 2 ]</b></a>
+    &nbsp;&nbsp;|&nbsp;&nbsp;
+    <a href="https://github.com/AllanSoto/-LABORATORIO_OPTIMIZACION_SQL"><b>[ Ver Repositorio en GitHub ]</b></a>
+  </p>
+  <h3>Vista Principal - Panel Ejecutivo de KPIs &amp; Visión Global</h3>
+  <a href="./public/proyecto_2/video.mp4">
+    <img src="./public/proyecto_2/screenshot-1.png" alt="Proyecto 2 - Panel Ejecutivo de KPIs" width="100%" />
+  </a>
 </div>
 
 ### Galería Completa de Capturas - Proyecto 2
@@ -163,6 +163,12 @@ END;
 - **El Desafío:** Procesos de base de datos obsoletos con subconsultas pesadas, falta de tablas temporales indexadas, lecturas bloqueantes y ausencia de índices compuestos que provocaban caídas del servidor en horas pico.
 - **La Solución:** Reingeniería completa en T-SQL implementando CTEs modulares, funciones de ventana (`ROW_NUMBER`, `LAG`, `LEAD`, `SUM OVER`), tablas temporales `#Temp` con índices dedicados, operaciones atómicas `MERGE` y afinación profunda de Execution Plans.
 - **Impacto Medible:** Tiempo de consulta **`45 min -> 1.2 seg`** | **`-88% Carga de CPU`** | Capacidad verificada para **`+10 Millones de Registros`**.
+
+<div align="center">
+  <p>
+    <a href="https://github.com/AllanSoto/-LABORATORIO_OPTIMIZACION_SQL"><b>[ Ver Repositorio en GitHub - Laboratorio de Optimización SQL ]</b></a>
+  </p>
+</div>
 
 ```sql
 -- Patrón T-SQL Avanzado: CTEs + Window Functions + Tablas Temporales + Tuning
@@ -203,15 +209,15 @@ DROP TABLE #ResumenTemporal;
 - **Impacto Medible:** **`3 Horas / Día`** ahorradas | **`0% Errores Manuales`** | Velocidad de **`50,000 Registros / 15 seg`**.
 
 <div align="center">
-
-[![Ver Video Demo - Proyecto 4](https://img.shields.io/badge/Ver_Video_Demostracion_(MP4)-Proyecto_4_Python_ETL-10B981?style=for-the-badge&logo=python&logoColor=white)](./public/proyecto_4/video.mp4)
-[![Repositorio GitHub](https://img.shields.io/badge/GitHub-Automatizacion_de_Procesos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AllanSoto/Automatizaci-n-de-Procesos)
-
-### Vista Principal - Panel de Automatización & Flujo ETL
-<a href="./public/proyecto_4/video.mp4">
-  <img src="./public/proyecto_4/screenshot-1.png" alt="Proyecto 4 - Panel Principal ETL" width="100%" />
-</a>
-
+  <p>
+    <a href="./public/proyecto_4/video.mp4"><b>[ Ver Video Demostración (MP4) - Proyecto 4 ]</b></a>
+    &nbsp;&nbsp;|&nbsp;&nbsp;
+    <a href="https://github.com/AllanSoto/Automatizaci-n-de-Procesos"><b>[ Ver Repositorio en GitHub ]</b></a>
+  </p>
+  <h3>Vista Principal - Panel de Automatización &amp; Flujo ETL</h3>
+  <a href="./public/proyecto_4/video.mp4">
+    <img src="./public/proyecto_4/screenshot-1.png" alt="Proyecto 4 - Panel Principal ETL" width="100%" />
+  </a>
 </div>
 
 ### Galería Completa de Capturas - Proyecto 4
@@ -238,15 +244,15 @@ DROP TABLE #ResumenTemporal;
 - **Impacto Medible:** **`99.9% Uptime`** | **`98 / 100`** en Lighthouse | Ciberseguridad **`Grado A+`**.
 
 <div align="center">
-
-[![Ver Video Demo - Proyecto 5](https://img.shields.io/badge/Ver_Video_Demostracion_(MP4)-Proyecto_5_Full--Stack-10B981?style=for-the-badge&logo=react&logoColor=white)](./public/proyecto_5/video.mp4)
-[![Repositorio GitHub](https://img.shields.io/badge/GitHub-Desarrollo_Web_Full--Stack-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AllanSoto/Desarrollo-Web-Full-Stack-Empresarial)
-
-### Vista Principal - Panel de la Aplicación (Frontend React / Next.js)
-<a href="./public/proyecto_5/video.mp4">
-  <img src="./public/proyecto_5/screenshot-1.png" alt="Proyecto 5 - Panel Principal Full-Stack" width="100%" />
-</a>
-
+  <p>
+    <a href="./public/proyecto_5/video.mp4"><b>[ Ver Video Demostración (MP4) - Proyecto 5 ]</b></a>
+    &nbsp;&nbsp;|&nbsp;&nbsp;
+    <a href="https://github.com/AllanSoto/Desarrollo-Web-Full-Stack-Empresarial"><b>[ Ver Repositorio en GitHub ]</b></a>
+  </p>
+  <h3>Vista Principal - Panel de la Aplicación (Frontend React / Next.js)</h3>
+  <a href="./public/proyecto_5/video.mp4">
+    <img src="./public/proyecto_5/screenshot-1.png" alt="Proyecto 5 - Panel Principal Full-Stack" width="100%" />
+  </a>
 </div>
 
 ### Galería Completa de Capturas - Proyecto 5
@@ -268,15 +274,15 @@ DROP TABLE #ResumenTemporal;
 - **Impacto Medible:** Puntuación **`100 / 100`** en Google Lighthouse | Tiempo de carga **`0.4 seg`** | **`+45% Conversión de Leads`**.
 
 <div align="center">
-
-[![Ver Video Demo - Proyecto 6](https://img.shields.io/badge/Ver_Video_Demostracion_(MP4)-Proyecto_6_Creacion_Web-10B981?style=for-the-badge&logo=nextdotjs&logoColor=white)](./public/proyecto_6/Proyecto_6.mp4)
-[![Repositorio GitHub](https://img.shields.io/badge/GitHub-Creacion_Web_&_Landing_Pages-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AllanSoto/creaci-n-web-negocios-profesionales-y-startups)
-
-### Vista Principal - Hero de Alta Conversión & Métricas Lighthouse 100/100
-<a href="./public/proyecto_6/Proyecto_6.mp4">
-  <img src="./public/proyecto_6/screenshot-1.png" alt="Proyecto 6 - Hero Principal Creacion Web" width="100%" />
-</a>
-
+  <p>
+    <a href="./public/proyecto_6/Proyecto_6.mp4"><b>[ Ver Video Demostración (MP4) - Proyecto 6 ]</b></a>
+    &nbsp;&nbsp;|&nbsp;&nbsp;
+    <a href="https://github.com/AllanSoto/creaci-n-web-negocios-profesionales-y-startups"><b>[ Ver Repositorio en GitHub ]</b></a>
+  </p>
+  <h3>Vista Principal - Hero de Alta Conversión &amp; Métricas Lighthouse 100/100</h3>
+  <a href="./public/proyecto_6/Proyecto_6.mp4">
+    <img src="./public/proyecto_6/screenshot-1.png" alt="Proyecto 6 - Hero Principal Creacion Web" width="100%" />
+  </a>
 </div>
 
 ### Galería Completa de Capturas - Proyecto 6
@@ -303,15 +309,15 @@ DROP TABLE #ResumenTemporal;
 - **Impacto Medible:** **`+68% Visualización y Retención`** | Tiempo de entrega **`24 - 48 Horas`** | Formatos **`9:16 Reels & 16:9 4K`**.
 
 <div align="center">
-
-[![Ver Video Demo - Proyecto 7](https://img.shields.io/badge/Ver_Video_Demostracion_(MP4)-Proyecto_7_Estudio_Video_IA-8B5CF6?style=for-the-badge&logo=sparkles&logoColor=white)](./public/proyecto_7/proyecto_7_video.mp4)
-[![Repositorio GitHub](https://img.shields.io/badge/GitHub-Generacion_&_Edicion_Video_IA-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AllanSoto/Generaci-n-Edici-n-de-Video-Profesional-con-IA-Reels-Corporativo-)
-
-### Vista Principal - Resumen Ejecutivo & Monitor Master IA (9:16 Reels & 16:9 4K)
-<a href="./public/proyecto_7/proyecto_7_video.mp4">
-  <img src="./public/proyecto_7/screenshot-2.png" alt="Proyecto 7 - Resumen Ejecutivo y Monitor Master IA" width="100%" />
-</a>
-
+  <p>
+    <a href="./public/proyecto_7/proyecto_7_video.mp4"><b>[ Ver Video Demostración (MP4) - Proyecto 7 ]</b></a>
+    &nbsp;&nbsp;|&nbsp;&nbsp;
+    <a href="https://github.com/AllanSoto/Generaci-n-Edici-n-de-Video-Profesional-con-IA-Reels-Corporativo-"><b>[ Ver Repositorio en GitHub ]</b></a>
+  </p>
+  <h3>Vista Principal - Resumen Ejecutivo &amp; Monitor Master IA (9:16 Reels &amp; 16:9 4K)</h3>
+  <a href="./public/proyecto_7/proyecto_7_video.mp4">
+    <img src="./public/proyecto_7/screenshot-2.png" alt="Proyecto 7 - Resumen Ejecutivo y Monitor Master IA" width="100%" />
+  </a>
 </div>
 
 ### Galería Completa de Capturas - Proyecto 7
@@ -338,15 +344,15 @@ DROP TABLE #ResumenTemporal;
 - **Impacto Medible:** **`100% Precisión`** en entrega por asiento | División y cierre de cuenta de **`5 min -> 10 seg`** | Sincronización Salón-Cocina en **`Tiempo Real`**.
 
 <div align="center">
-
-[![Ver Video Demo - Proyecto 8](https://img.shields.io/badge/Ver_Video_Demostracion_(MP4)-Proyecto_8_GastroPoint_POS-D97706?style=for-the-badge&logo=react&logoColor=white)](./public/proyecto_8/gp_video.mp4)
-[![Repositorio GitHub](https://img.shields.io/badge/GitHub-GastroPoint_POS-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AllanSoto/GastroPoint)
-
-### Vista Principal - Registro en Mesa, Selección de Modalidad y Asiento Exacto
-<a href="./public/proyecto_8/gp_video.mp4">
-  <img src="./public/proyecto_8/screenshot-1.png" alt="Proyecto 8 - GastroPoint Registro de Mesa y Posición" width="100%" />
-</a>
-
+  <p>
+    <a href="./public/proyecto_8/gp_video.mp4"><b>[ Ver Video Demostración (MP4) - Proyecto 8 ]</b></a>
+    &nbsp;&nbsp;|&nbsp;&nbsp;
+    <a href="https://github.com/AllanSoto/GastroPoint"><b>[ Ver Repositorio en GitHub ]</b></a>
+  </p>
+  <h3>Vista Principal - Registro en Mesa, Selección de Modalidad y Asiento Exacto</h3>
+  <a href="./public/proyecto_8/gp_video.mp4">
+    <img src="./public/proyecto_8/screenshot-1.png" alt="Proyecto 8 - GastroPoint Registro de Mesa y Posición" width="100%" />
+  </a>
 </div>
 
 ### Galería Completa de Capturas - Proyecto 8 (GastroPoint)
