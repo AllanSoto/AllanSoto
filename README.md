@@ -1,16 +1,17 @@
 <div align="center">
 
-# Allan Soto - Senior Software Developer, Data Engineer & AI Media Specialist
+# Allan Soto - Full-Stack Developer, Data Engineer & Analista de Ciberseguridad
 
-### Creación de Páginas Web | Sistemas POS & Full-Stack | Optimización SQL Server & MySQL | Automatización Python ETL | Power BI | Producción de Video con IA
+### Python & Automatización ETL | Optimización SQL Server & MySQL | Ciberseguridad (ISO 27001 / OWASP) | Creación Web & Sistemas POS | Power BI & Video IA
 
+[![Python ETL](https://img.shields.io/badge/Python-Automatizacion_%26_Scripting-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/AllanSoto/Automatizaci-n-de-Procesos)
+[![Cybersecurity](https://img.shields.io/badge/Ciberseguridad-ISO_27001_%26_OWASP-DC2626?style=for-the-badge&logo=shield&logoColor=white)](https://github.com/AllanSoto/Desarrollo-Web-Full-Stack-Empresarial)
+[![SQL Server](https://img.shields.io/badge/SQL_Server_%26_MySQL-Data_Engineering-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://github.com/AllanSoto/-LABORATORIO_OPTIMIZACION_SQL)
 [![React 19](https://img.shields.io/badge/React-19.0-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
 [![Next.js](https://img.shields.io/badge/Next.js-Full--Stack-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.8-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4.1-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
 [![Node.js & Express](https://img.shields.io/badge/Node.js_%26_Express-Backend-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
-[![SQL Server](https://img.shields.io/badge/SQL_Server_%26_MySQL-Data_Engineering-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://github.com/AllanSoto/-LABORATORIO_OPTIMIZACION_SQL)
-[![Python ETL](https://img.shields.io/badge/Python-Pandas_ETL-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/AllanSoto/Automatizaci-n-de-Procesos)
 [![AI Video Studio](https://img.shields.io/badge/Runway_%26_ElevenLabs-Video_IA-8B5CF6?style=for-the-badge&logo=sparkles&logoColor=white)](https://github.com/AllanSoto/Generaci-n-Edici-n-de-Video-Profesional-con-IA-Reels-Corporativo-)
 
 <br />
@@ -24,7 +25,7 @@
 <br />
 
 > **+6 Años de Experiencia** | **+140 Proyectos Entregados** | **100% Satisfacción Garantizada**  
-> Desarrollo páginas web modernas y landing pages de alta conversión, sistemas POS y plataformas Full-Stack, optimizo bases de datos SQL de alto tráfico, construyo pipelines de automatización en Python, diseño tableros ejecutivos en Power BI y produzco videos dinámicos con IA.
+> Desarrollador Full-Stack, Ingeniero de Datos y Analista de Ciberseguridad. Especialista en automatización de procesos y pipelines de datos con Python, optimización avanzada en SQL Server y MySQL, endurecimiento de infraestructura bajo ISO 27001 / OWASP, desarrollo web de alta conversión, sistemas POS, Power BI y producción audiovisual con IA.
 
 </div>
 
@@ -394,7 +395,7 @@ Además de la galería de proyectos con video y capturas, el repositorio de mi p
 
 ## Contacto Profesional
 
-**Allan Soto - Senior Software Developer, Data Engineer & AI Media Specialist**  
+**Allan Soto - Full-Stack Developer, Data Engineer & Analista de Ciberseguridad**  
 Costa Rica (`+506 7100-6253`) | Servicio Global
 
 [![WhatsApp Directo](https://img.shields.io/badge/Iniciar_Chat_en_WhatsApp-+506_7100--6253-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/50671006253)
